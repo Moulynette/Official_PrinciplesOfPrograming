@@ -6,20 +6,20 @@ namespace Lesson2
     {
         static void Main(string[] args)
         {
-            //ex1();
-            //console.writeline();
-            //ex2(7, 8);
-            //console.writeline();
-            //ex3();
-            //console.writeline();
-            //ex4();
-            //console.writeline();
-            //ex5();
-            //console.writeline();
-            //ex6();
-            //console.writeline();
+            ex1();
+            console.writeline();
+            ex2(7, 8);
+            console.writeline();
+            ex3();
+            console.writeline();
+            ex4();
+            console.writeline();
+            ex5();
+            console.writeline();
+            ex6();
+            console.writeline();
             ex7();
-            //console.writeline();
+            console.writeline();
             ex8();
             Console.WriteLine();
             ex9();
