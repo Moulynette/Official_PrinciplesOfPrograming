@@ -1,0 +1,11 @@
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\bin\Debug\netcoreapp3.0\PrinciplesOfPrograming.exe
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\bin\Debug\netcoreapp3.0\PrinciplesOfPrograming.deps.json
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\bin\Debug\netcoreapp3.0\PrinciplesOfPrograming.runtimeconfig.json
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\bin\Debug\netcoreapp3.0\PrinciplesOfPrograming.runtimeconfig.dev.json
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\bin\Debug\netcoreapp3.0\PrinciplesOfPrograming.dll
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\bin\Debug\netcoreapp3.0\PrinciplesOfPrograming.pdb
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\obj\Debug\netcoreapp3.0\PrinciplesOfPrograming.csprojAssemblyReference.cache
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\obj\Debug\netcoreapp3.0\PrinciplesOfPrograming.AssemblyInfoInputs.cache
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\obj\Debug\netcoreapp3.0\PrinciplesOfPrograming.AssemblyInfo.cs
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\obj\Debug\netcoreapp3.0\PrinciplesOfPrograming.dll
+C:\Users\tommo\Desktop\VARNA\CLASS LESSONS\PrinciplesOfPrograming\Assignment_MOULY_Thomas\Assignment\PrinciplesOfPrograming\obj\Debug\netcoreapp3.0\PrinciplesOfPrograming.pdb
